@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌼 Hello, I'm Sara 🌍
+# 🌷 Hello, I'm Sara 🌍
 
 🦢 **Aspiring Fachinformatikerin für Anwendungsentwicklung | Learning by Building | Functionality & Design** 🎀
 
