@@ -50,7 +50,7 @@ A simple Discord bot built with Python that uses commands, environment variables
 
 ## 🌙 Next Learning Goals
 
-- Polish Turtle Meadow with improved collectible spawning and interactive flower movement
+- Finish Turtle Meadow with small story details and final polish
 - Learn SQL basics for working with saved data
 - Build an application tracker with Python, PySide6, and SQLite
 - Learn web fundamentals with HTML, CSS, and JavaScript, then move into React
