@@ -24,7 +24,7 @@
 
 ### Turtle Meadow 🐢🍓
 
-A cozy Python/Pygame game in development where I’m currently adding player movement, sprites, collision detection, and score tracking.
+A cozy Python/Pygame mini-game with custom pixel-art assets, smooth delta-time movement, sprite animation, collision detection, random collectible respawns, quest state management, a reward pop-up, and background music.
 
 ### Discord Cat Meme Bot 🐈‍⬛
 
@@ -41,7 +41,7 @@ A simple Discord bot built with Python that uses commands, environment variables
 `Git` `GitHub` `VS Code` `Markdown`
 
 **Concepts Practiced**  
-`APIs` `JSON` `Environment Variables` `Game Loops` `Delta Time` `Keyboard Controls` `Project Documentation`
+`APIs` `JSON` `Environment Variables` `Game Loops` `Event Handling` `Delta Time` `Collision Detection` `Sprite Animation` `Game State` `Project Documentation` 
 
 **Creative Tools**  
 `Illustrator` `Canva` `Piskel`
